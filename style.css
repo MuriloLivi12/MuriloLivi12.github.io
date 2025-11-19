@@ -1,0 +1,17 @@
+
+#carouselExampleSlidesOnly { 
+    max-width: 800px; 
+    width: 90%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border: 1px solid #ddd; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.carousel-inner .carousel-item img {
+    height: auto; 
+    width: 100%; 
+    object-fit: cover; 
+    max-height: 450px; 
+}
